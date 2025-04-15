@@ -23,7 +23,7 @@ This document summarizes the key insights from the Kimia Farma performance analy
 ### Top Branches by Ratings
 1. Pematangsiantar, North Sumatra  
    - Branch Rating: 4.8  
-   - Transaction Rating: 3.99
+   - Transaction Rating: 3.99 
 
 ## Monthly Performance Trends
 - Net sales and profit are relatively stable across all months
