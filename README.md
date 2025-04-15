@@ -1,2 +1,23 @@
-# Kimia_farma_analytics
-A data analysis project that explores Kimia Farma’s branch performance from 2020 to 2023 using SQL on Google BigQuery and visualization in Looker Studio to identify trends in transactions, sales, profits, and ratings.
+# Kimia Farma Performance Analysis (2020–2023)
+
+Data analytics project using Google BigQuery and Looker Studio
+
+## Project Overview
+This project analyzes the performance of Kimia Farma branches across Indonesia from 2020 to 2023. The dataset includes over 672,000 transactions from 70 cities. The analysis explores trends in transaction volume, sales, profit, and ratings using SQL and is visualized through Looker Studio.
+
+## Objectives
+- Identify top-performing branches by transaction volume, sales, and ratings
+- Discover trends in monthly performance over four years
+- Evaluate the distribution of profits across provinces
+
+## Tools and Technologies
+- Google BigQuery (SQL) – data querying and analysis
+- Looker Studio – data visualization and dashboard
+
+## Key Highlights
+- West Java leads in both transaction volume and total sales
+- The highest-rated branch is located in Pematangsiantar, North Sumatra
+- Total net sales reached Rp346.96 billion, with Rp98.54 billion in net profit
+- Monthly sales and profit trends show overall stable performance with minor fluctuations
+
+## Project Structure
