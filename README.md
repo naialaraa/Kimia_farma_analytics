@@ -20,4 +20,13 @@ This project analyzes the performance of Kimia Farma branches across Indonesia f
 - Total net sales reached Rp346.96 billion, with Rp98.54 billion in net profit
 - Monthly sales and profit trends show overall stable performance with minor fluctuations
 
-## Project Structure
+## Files
+- `queries/Kimia_Farma_Analytics.sql`: SQL query for aggregating branch-level performance
+- `report/insight_summary.md`: Summary of insights and findings
+- `assets/dashboard_preview.png`: Preview of the Looker Studio dashboard
+
+## Dashboard Preview
+Link to dashboard: https://lookerstudio.google.com/reporting/a64cae3f-8324-499d-b2ab-bcc4e45aca1e(#)
+
+## Notes
+The dataset used in this project is proprietary and cannot be shared publicly. Only queries and analysis are included for portfolio purposes.
